@@ -1,0 +1,6 @@
+Cotton Shirt 0, 150, 5
+Knife 0, 23, 15
+Shield 0, 99, 105
+Sandals 0, 23, 31
+Ring 0, 26, 42
+Angeling Wing 0, 29, 34

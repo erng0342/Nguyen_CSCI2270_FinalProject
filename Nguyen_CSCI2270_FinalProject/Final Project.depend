@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1461785727 source:/home/user/Dropbox/CSCI 2270/Project/Final Project/main.cpp
+	<iostream>
+	"FinalProject.h"
+	<fstream>
+	<sstream>
+
+1461779917 /home/user/Dropbox/CSCI 2270/Project/Final Project/include/FinalProject.h
+	<iostream>
+
+1461779917 source:/home/user/Dropbox/CSCI 2270/Project/Final Project/src/FinalProject.cpp
+	"FinalProject.h"
+	<sstream>
+

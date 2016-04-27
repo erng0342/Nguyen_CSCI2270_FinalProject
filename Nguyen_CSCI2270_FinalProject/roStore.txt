@@ -1,0 +1,7 @@
+Valkyrie Helm 10, 1000, 10
+Valkyrie Armor 2, 5200, 15
+Valkyrie Garment 20, 2300, 50
+Valkyrie Shoes 1, 1100, 52
+Sliepner 0, 500, 25
+Nile Rose 5, 300, 100
+Dragon Wings 10, 400, 36
